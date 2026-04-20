@@ -7,7 +7,7 @@
 [![Paper](https://img.shields.io/badge/📄_Paper-SPJ_Research-b31d28?style=for-the-badge)](https://spj.science.org/doi/full/10.34133/research.1029)
 [![Supplementary](https://img.shields.io/badge/📎_Supplementary-DOCX-6f42c1?style=for-the-badge)](https://spj.science.org/doi/suppl/10.34133/research.1029/suppl_file/research.1029.f1.docx)
 
-[![Datasets](https://img.shields.io/badge/📊_Datasets-93-2ea44f?style=flat-square)](#-datasets)
+[![Datasets](https://img.shields.io/badge/📊_Datasets-95-2ea44f?style=flat-square)](#-datasets)
 [![Methods](https://img.shields.io/badge/🔬_Methods-175-0969da?style=flat-square)](#-methods)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square)](#-license)
 
@@ -26,7 +26,7 @@
 - ✨ **Complete Clinical Coverage**: First survey mapping generative AI across diagnosis, treatment, and prognosis
 - 🎓 **Standardized Evaluation**: Three-tiered framework (image fidelity, feature consistency, clinical relevance)
 - 🔗 **Ready-to-Use Resources**: All datasets and methods with direct links and implementation details
-- 📊 **Comprehensive Scope**: 93 datasets, 175 methods, 10+ imaging modalities
+- 📊 **Comprehensive Scope**: 95 datasets, 175 methods, 10+ imaging modalities
 
 ---
 
@@ -69,7 +69,7 @@
 
 | Resource                          | Description                                        | Count         |
 | --------------------------------- | -------------------------------------------------- | ------------- |
-| 📊**Public Datasets**       | Curated medical imaging datasets with direct links | 93            |
+| 📊**Public Datasets**       | Curated medical imaging datasets with direct links | 95            |
 | 🔬**Research Methods**      | State-of-the-art generative AI methods             | 175           |
 | 💻**Code Repositories**     | GitHub/project links for implementations           | 90+           |
 | 📝**Loss Functions**        | Detailed training objectives for each method       | All           |
@@ -79,14 +79,14 @@
 
 ## 📊 Datasets
 
-> **💡 Tip**: All 93 datasets include direct download links. Click on dataset names to access them immediately.
+> **💡 Tip**: All 95 datasets include direct download links. Click on dataset names to access them immediately.
 
 ### 📍 Browse by Anatomy
 
 | Anatomical Region           | Datasets | Modalities                                  | Jump                             |
 | --------------------------- | -------- | ------------------------------------------- | -------------------------------- |
 | 🌐**Whole Body**      | 14       | CT, PET-CT, MRI, Pathology                  | [View](#-whole-body)                |
-| 🧠**Head & Neck**     | 21       | CT, PET-CT, MRI, US, OCT, Fundus, Pathology | [View](#-head-and-neck)             |
+| 🧠**Head & Neck**     | 23       | CT, PET-CT, MRI, US, OCT, Fundus, Pathology | [View](#-head-and-neck)             |
 | 🔘**Chest**           | 16       | X-ray, CT, MRI, US, Pathology               | [View](#-chest)                     |
 | ❤️**Cardiac**       | 12       | MRI, Ultrasound                             | [View](#-cardiac)                   |
 | 🔹**Abdomen**         | 15       | CT, MRI, US, Pathology                      | [View](#-abdomen)                   |
@@ -126,7 +126,7 @@
 ### 🧠 Head and Neck
 
 <details>
-<summary><b> View 21 Head & Neck Datasets</b></summary>
+<summary><b> View 23 Head & Neck Datasets</b></summary>
 
 <br>
 
@@ -141,12 +141,14 @@
 | [CrossMoDA2021](https://crossmoda.grand-challenge.org/)                                      | 3D MRI    | 349 volumes   | Grand Challenge       |
 | [CrossMoDA2023](https://www.synapse.org/Synapse:syn51236108/files/)                          | 3D MRI    | 983 volumes   | Synapse               |
 | [Diabetic Retinopathy Arranged](https://tianchi.aliyun.com/dataset/93926)                    | Fundus    | 35.1K images  | tianchi.aliyun.com    |
+| [Diff5T](https://doi.org/10.57760/sciencedb.25122)                                           | 3D MRI    | 14.65K volumes | ScienceDB             |
 | [HECKTOR2022](https://hecktor.grand-challenge.org/Data/)                                     | 3D PET-CT | 882 volumes   | Grand Challenge       |
 | [INSTANCE2022](https://instance.grand-challenge.org/)                                        | 3D CT     | 200 volumes   | Grand Challenge       |
 | [IXI Dataset](https://brain-development.org/ixi-dataset/)                                    | 3D MRI    | 600 volumes   | brain-development.org |
 | [LAG](https://github.com/smilell/AG-CNN?tab=readme-ov-file)                                  | Fundus    | 11.7K images  | GitHub                |
 | [OCT2017](https://data.mendeley.com/datasets/rscbjbr9sj/2)                                   | OCT       | 35.1K images  | data.mendeley.com     |
 | [ODIR-5K](https://odir2019.grand-challenge.org/dataset/)                                     | Fundus    | 5000 images   | Grand Challenge       |
+| [OpticNerveSeg](https://doi.org/10.57760/sciencedb.29570)                                    | 3D MRI    | 151 volumes   | ScienceDB             |
 | [OSCC](https://data.mendeley.com/datasets/ftmp4cvtmb/1)                                      | Pathology | 1224 WSI      | data.mendeley.com     |
 | [PatchCamelyon](https://github.com/basveeling/pcam)                                          | Pathology | 327.7K WSI    | GitHub                |
 | [Retinal OCT-C8](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)               | OCT       | 24K images    | Kaggle                |
@@ -708,8 +710,8 @@ If you find this repository helpful for your research, please consider citing ou
 
 <a href="https://www.star-history.com/?repos=Joker-ZXR%2FAwesome-Generative-AI-in-Medical-Imaging&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=Date" />
  </picture>
 </a>
