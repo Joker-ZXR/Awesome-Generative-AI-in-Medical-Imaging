@@ -339,7 +339,7 @@
 
 ### 🧩 Image Reconstruction
 
-#### 🔄 CT Reconstruction
+#### CT Reconstruction
 
 <details>
 <summary><b> View 12 CT Reconstruction Methods</b></summary>
@@ -363,7 +363,7 @@
 
 </details>
 
-#### 🔄 PET Reconstruction
+#### PET Reconstruction
 
 <details>
 <summary><b> View 12 PET Reconstruction Methods</b></summary>
@@ -413,7 +413,7 @@
 
 </details>
 
-#### 🔄 Other Modalities
+#### Other Modalities
 
 <details>
 <summary><strong>Show 7 entries</strong></summary>
@@ -493,7 +493,7 @@
 
 ### 🎯 Conditional Synthesis
 
-#### 🎯 Text-to-Image Synthesis
+#### Text-to-Image Synthesis
 
 <details>
 <summary><strong>Show 15 entries</strong></summary>
@@ -518,7 +518,7 @@
 
 </details>
 
-#### 🎯 Image-to-Image Synthesis
+#### Image-to-Image Synthesis
 
 <details>
 <summary><strong>Show 17 entries</strong></summary>
