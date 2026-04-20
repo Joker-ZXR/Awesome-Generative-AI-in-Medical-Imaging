@@ -40,9 +40,9 @@
 - [📊 Datasets](#-datasets)
   - [🌐 Whole Body](#-whole-body)
   - [🧠 Head and Neck](#-head-and-neck)
-  - [🫁 Chest](#-chest)
+  - [🔘 Chest](#-chest)
   - [❤️ Cardiac](#-cardiac)
-  - [🫃 Abdomen](#-abdomen)
+  - [🔹 Abdomen](#-abdomen)
   - [🦴 Musculoskeletal](#-musculoskeletal-and-other)
   - [🔗 Multimodal](#-multimodal-datasets)
 - [🔬 Methods](#-methods)
@@ -87,9 +87,9 @@
 | --------------------------- | -------- | ------------------------------------------- | -------------------------------- |
 | 🌐**Whole Body**      | 14       | CT, PET-CT, MRI, Pathology                  | [View](#-whole-body)                |
 | 🧠**Head & Neck**     | 21       | CT, PET-CT, MRI, US, OCT, Fundus, Pathology | [View](#-head-and-neck)             |
-| 🫁**Chest**           | 16       | X-ray, CT, MRI, US, Pathology               | [View](#-chest)                     |
+| 🔘**Chest**           | 16       | X-ray, CT, MRI, US, Pathology               | [View](#-chest)                     |
 | ❤️**Cardiac**       | 12       | MRI, Ultrasound                             | [View](#-cardiac)                   |
-| 🫃**Abdomen**         | 15       | CT, MRI, US, Pathology                      | [View](#-abdomen)                   |
+| 🔹**Abdomen**         | 15       | CT, MRI, US, Pathology                      | [View](#-abdomen)                   |
 | 🦴**Musculoskeletal** | 5        | MRI                                         | [View](#-musculoskeletal-and-other) |
 | 🔗**Multimodal**      | 10       | Image-Text, Clinical Data                   | [View](#-multimodal-datasets)       |
 
@@ -98,7 +98,7 @@
 ### 🌐 Whole Body
 
 <details open>
-<summary><b>🌐 View 14 Whole Body Datasets</b></summary>
+<summary><b> View 14 Whole Body Datasets</b></summary>
 
 <br>
 
@@ -126,7 +126,7 @@
 ### 🧠 Head and Neck
 
 <details>
-<summary><b>🧠 View 21 Head & Neck Datasets</b></summary>
+<summary><b> View 21 Head & Neck Datasets</b></summary>
 
 <br>
 
@@ -158,10 +158,10 @@
 
 </details>
 
-### 🫁 Chest
+### 🔘 Chest
 
 <details>
-<summary><b>🫁 View 16 Chest Datasets</b></summary>
+<summary><b> View 16 Chest Datasets</b></summary>
 
 <br>
 
@@ -191,7 +191,7 @@
 ### ❤️ Cardiac
 
 <details>
-<summary><b>❤️ View 12 Cardiac Datasets</b></summary>
+<summary><b> View 12 Cardiac Datasets</b></summary>
 
 <br>
 
@@ -214,10 +214,10 @@
 
 </details>
 
-### 🫃 Abdomen
+### 🔹 Abdomen
 
 <details>
-<summary><b>🫃 View 15 Abdomen Datasets</b></summary>
+<summary><b> View 15 Abdomen Datasets</b></summary>
 
 <br>
 
@@ -246,7 +246,7 @@
 ### 🦴 Musculoskeletal and Other
 
 <details>
-<summary><b>🦴 View 5 Musculoskeletal Datasets</b></summary>
+<summary><b> View 5 Musculoskeletal Datasets</b></summary>
 
 <br>
 
@@ -265,7 +265,7 @@
 ### 🔗 Multimodal Datasets
 
 <details>
-<summary><b>🔗 View 10 Multimodal Datasets</b></summary>
+<summary><b> View 10 Multimodal Datasets</b></summary>
 
 <br>
 
@@ -310,7 +310,7 @@
 ### 🧹 Denoising and Artifact Removal
 
 <details open>
-<summary><b>🧹 View 16 Denoising & Artifact Removal Methods</b></summary>
+<summary><b> View 16 Denoising & Artifact Removal Methods</b></summary>
 
 <br>
 
@@ -342,7 +342,7 @@
 #### 🔄 CT Reconstruction
 
 <details>
-<summary><b>View 12 CT Reconstruction Methods</b></summary>
+<summary><b> View 12 CT Reconstruction Methods</b></summary>
 
 <br>
 
@@ -366,7 +366,7 @@
 #### 🔄 PET Reconstruction
 
 <details>
-<summary><b>View 12 PET Reconstruction Methods</b></summary>
+<summary><b> View 12 PET Reconstruction Methods</b></summary>
 
 <br>
 
@@ -704,6 +704,8 @@ If you find this repository helpful for your research, please consider citing ou
 
 
 **⭐ If this resource helps your work, please give us a star! ⭐**
+## Star History
+
 <a href="https://www.star-history.com/?repos=Joker-ZXR%2FAwesome-Generative-AI-in-Medical-Imaging&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Joker-ZXR/Awesome-Generative-AI-in-Medical-Imaging&type=date&theme=dark&legend=top-left" />
